@@ -1,0 +1,32 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.6*%
+%TF.CreationDate,2025-12-21T15:01:31-05:00*%
+%TF.ProjectId,olyntia,6f6c796e-7469-4612-9e6b-696361645f70,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.6) date 2025-12-21 15:01:31*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.700000X1.700000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,ADC1*%
+X67763000Y-105237000D03*
+%TD*%
+%TO.C,GND*%
+X97409000Y-101066600D03*
+%TD*%
+%TO.C,+5V_IN*%
+X97409000Y-104825800D03*
+%TD*%
+%TO.C,RE*%
+X71043800Y-113995200D03*
+%TD*%
+%TO.C,WE*%
+X79625000Y-97200000D03*
+%TD*%
+M02*
